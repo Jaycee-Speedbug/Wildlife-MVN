@@ -1,0 +1,10 @@
+
+/*
+ Download this repository to get Microsoft Databases Samples
+ Multiple SQL scripts available !!
+*/
+
+https://github.com/Microsoft/sql-server-samples
+
+
+
